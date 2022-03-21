@@ -48,7 +48,7 @@
 <div class="column project">
 	<a
 		bind:this={projectText}
-		href={`/${post.slug}`}
+		href={`/${post.slug}/`}
 		class={(textRight == true ? 'right grid-7-13' : 'left grid-1-7') + ' project-text-container'}
 	>
 		<div class="project-text-background" />
@@ -75,7 +75,7 @@
 	</a>
 
 	<a
-		href={`/${post.slug}`}
+		href={`/${post.slug}/`}
 		bind:this={projectImage}
 		class={(textRight == true ? 'right grid-1-9' : 'left grid-5-13') + ' project-img-container'}
 	>
