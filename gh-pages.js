@@ -5,7 +5,7 @@ publish(
  {
   branch: 'master',
   repo: 'https://github.com/mercvre/mercvre.github.io.git',
-  message: "Added google analytics",
+  message: "Corrected problem with wrong links resulting in no images and no css",
   // Update to point to your repository
   // user: {
   //  name: 'mercvre', // update to use your name
