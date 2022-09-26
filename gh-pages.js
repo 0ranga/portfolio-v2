@@ -5,7 +5,7 @@ publish(
  {
   branch: 'master',
   repo: 'https://github.com/mercvre/mercvre.github.io.git',
-  message: "Corrected problem with wrong links resulting in no images and no css",
+  message: "Updated portfolio + corrected bug where headings and links in individual projects show the noise overlay",
   // Update to point to your repository
   // user: {
   //  name: 'mercvre', // update to use your name

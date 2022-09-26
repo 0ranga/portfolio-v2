@@ -159,6 +159,7 @@
 			rgba(208, 208, 208, 0.8) 90.73%
 		);
 		transition: 0.5s;
+		z-index: -2;
 	}
 
 	.left.project-text-container.not-visible {
@@ -207,6 +208,7 @@
 		width: 299px;
 		gap: 8px;
 		flex-wrap: wrap;
+		z-index: -1;
 	}
 
 	.project-text-tag span {

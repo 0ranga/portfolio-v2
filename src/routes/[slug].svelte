@@ -59,14 +59,14 @@
 		</div>
 	{:else}
 		<div class="gold intro">
-			<h1>{post.name}</h1>
+			<h1 style="position:relative; z-index:1;">{post.name}</h1>
 
-			<div class="flex">
+			<div style="position:relative; z-index:1;" class="flex">
 				<h3>{post.role}</h3>
 				<h5 class="caption1">—{post.date}</h5>
 			</div>
 
-			<div>
+			<div style="position:relative; z-index:1;">
 				<p class="outline">
 					{@html post.intro}
 				</p>
@@ -83,7 +83,9 @@
 				<p>Waiting...</p>
 			</div>
 		{:then page}
-			{@html page}
+			<div style="position:relative; z-index:1;">
+				{@html page}
+			</div>
 		{/await}
 	{/if}
 </main>
@@ -269,5 +271,4 @@
 			flex-direction: column;
 		}
 	}
-
 </style>

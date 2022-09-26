@@ -10,8 +10,8 @@
 
 <div class:hidden={!menuOpen} class="menu">
 	<a on:click={() => (menuOpen = !menuOpen)} href="/">Work</a>
-	<a on:click={() => (menuOpen = !menuOpen)} href="/other-projects">Miscellaneous</a>
-	<!-- <a on:click={() => (menuOpen = !menuOpen)} href="/">About me</a> -->
+	<a on:click={() => (menuOpen = !menuOpen)} href="/playground">Playground</a>
+	<a on:click={() => (menuOpen = !menuOpen)} href="/about-me">About me</a>
 	<!-- <a on:click={() => (menuOpen = !menuOpen)} href="/">Contact</a> -->
 </div>
 
