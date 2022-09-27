@@ -11,7 +11,7 @@
 	<p
 		style="font-size: 1.4em; font-family: roc-grotesk; text-transform:uppercase; font-style:italic; text-align: right; color: #404445;"
 	>
-		Engineer. Designer. Lifelong learner.
+		Engineer. Designer. Lifelong&nbsp;learner.
 	</p>
 </div>
 

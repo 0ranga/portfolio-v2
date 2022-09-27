@@ -15,7 +15,7 @@
 			function (observables) {
 				// console.log(observables);
 				observables.forEach((observable) => {
-					if (observable.intersectionRatio > 0.5) {
+					if (observable.intersectionRatio > 0.3) {
 						observable.target.classList.remove('not-visible');
 						observer.unobserve(observable.target);
 						console.log(observable);
@@ -23,7 +23,7 @@
 				});
 			},
 			{
-				threshold: [0.5]
+				threshold: [0.4]
 			}
 		);
 		observer.observe(projectText);
