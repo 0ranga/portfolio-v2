@@ -5,7 +5,7 @@ publish(
  {
   branch: 'master',
   repo: 'https://github.com/mercvre/mercvre.github.io.git',
-  message: "Updated portfolio + corrected bug where headings and links in individual projects show the noise overlay",
+  message: "Corrected intersection observer + added a non-breaking space to index",
   // Update to point to your repository
   // user: {
   //  name: 'mercvre', // update to use your name
