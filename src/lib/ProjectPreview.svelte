@@ -242,7 +242,8 @@
 	.project-img-container {
 		/* height: 0; */
 		/* overflow: hidden; */
-		padding-top: 56.25%;
+		/* sets the aspect ration to 16:9 */
+		padding-top: 56.25%; 
 		position: relative;
 		top: -324px;
 		/* top: -300px; */

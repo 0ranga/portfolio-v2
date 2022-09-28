@@ -5,6 +5,7 @@
 
     let posts = postsObject;
 	posts = posts.filter(project => project.category.includes(category));
+	posts = posts.filter(project => project.show != false);
 </script>
 
 {#each posts as post, i}
