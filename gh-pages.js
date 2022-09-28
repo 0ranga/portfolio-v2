@@ -5,7 +5,7 @@ publish(
  {
   branch: 'master',
   repo: 'https://github.com/mercvre/mercvre.github.io.git',
-  message: "Corrected intersection observer + added a non-breaking space to index",
+  message: "Updated portfolio with new projects",
   // Update to point to your repository
   // user: {
   //  name: 'mercvre', // update to use your name
