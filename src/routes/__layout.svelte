@@ -8,7 +8,7 @@
 </div>
 
 <div style = "bottom: 0;" class="container max-width mt-16 mb-48">
-	<p style = "font-family: roc-grotesk; font-size: 1.01em; text-align: center; color: #909090">Website built by me with SvelteKit.</p>
+	<p style = "font-family: roc-grotesk; font-size: 1.01em; text-align: center; color: #909090">Website designed and built by me with SvelteKit.</p>
 </div>
 
 <style>
