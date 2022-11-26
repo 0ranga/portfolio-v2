@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Jordan Louis - Developer & Designer</title>
+	<title>Jordan Louis - Engineer & Designer</title>
 </svelte:head>
 
 <h1>Jordan Louis</h1>
