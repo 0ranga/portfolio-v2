@@ -5,7 +5,7 @@ publish(
  {
   branch: 'master',
   repo: 'https://github.com/mercvre/mercvre.github.io.git',
-  message: "updated fonts, title of home page, one image that took too long to load and the piano scales page",
+  message: "corrected a bug with a font not loading",
   // Update to point to your repository
   // user: {
   //  name: 'mercvre', // update to use your name
