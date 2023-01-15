@@ -5,7 +5,7 @@ publish(
  {
   branch: 'master',
   repo: 'https://github.com/mercvre/mercvre.github.io.git',
-  message: "corrected a bug with a font not loading",
+  message: "Added Augmented Resume Project",
   // Update to point to your repository
   // user: {
   //  name: 'mercvre', // update to use your name
