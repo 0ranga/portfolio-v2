@@ -5,7 +5,7 @@ publish(
  {
   branch: 'master',
   repo: 'https://github.com/mercvre/mercvre.github.io.git',
-  message: "Added Augmented Resume Project",
+  message: "Added a few personal projects",
   // Update to point to your repository
   // user: {
   //  name: 'mercvre', // update to use your name
