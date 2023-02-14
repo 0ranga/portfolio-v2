@@ -5,7 +5,7 @@ publish(
  {
   branch: 'master',
   repo: 'https://github.com/mercvre/mercvre.github.io.git',
-  message: "Added a few personal projects",
+  message: "Resized some thumbnails for better loading times",
   // Update to point to your repository
   // user: {
   //  name: 'mercvre', // update to use your name
