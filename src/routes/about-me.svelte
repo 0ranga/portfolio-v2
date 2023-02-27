@@ -5,31 +5,35 @@
 <h1>Jordan Louis</h1>
 <div class="max-width mt-16 mb-48">
 	<p>
-		Hello! I am an engineer and designer. I am currently pursuing a Master's Degree in Computer
-		Science specialized in Interaction, Graphics & Design with a minor in Artificial Intelligence from <a
-			href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris</a
-		>.
+		As a fast-learning multipotentialite with two Master's degrees in Design and Computer Science, I
+		bring a unique blend of aesthetic sensibility and technical expertise to my work which make me
+		an ideal candidate for a software engineering role.
 	</p>
 	<p class="mt-16">
-		Within my Master's I learn to tackle research from different perspectives: with an explorative
-		and practical approach, but also with a scientific approach by following the methods of
-		academia. Having a scientific background, this truly resonates with me which is why I apply a
-		structured method in all my work.
+		I have experience developing pixel-perfect interfaces and a deep understanding of UI/UX design
+		principles. It is my belief that learning is a lifelong journey, it keeps me pushing beyond my
+		boundaries and my interdisciplinary approach allows me to deliver high-quality results that
+		exceed expectations.
 	</p>
 	<p class="mt-16">
-		I strongly believe that innovation comes at the intersection of different fields, for this
-		reason I advocate interdisciplinarity and I keep pushing myself into new environments. Being
-		myself a lifelong learner, it is my conviction that there are no limits to learning. As a matter
-		of fact, I feel an endless need to learn, improve and evolve.
+		I have a background in web development, using the latest technologies such as Svelte framework
+		and am experienced in C++. My academic projects in C++ range from developing interactive
+		applications using Qt framework to manipulating shaders with OpenGL.
+	</p>
+	<p class="mt-16">
+		I believe that innovation comes at the intersection of different fields and that quality is more
+		important than quantity. I bring a commitment to excellence and a willingness to explore new
+		environments and technologies to everything I do. My goal is to create impactful and unique
+		solutions that drive positive change.
 	</p>
 
 	<p class="mt-16">
-		If you would like to collaborate with me or discuss, please don't hesitate to <a
+		If you're seeking a highly motivated and creative junior software engineer, I am excited about
+		the opportunity to work with like-minded individuals and create products that make a difference.
+		<a
 			href="#"
 			data-contact="aGVsbG8uam9yZGFubG91aXNAZ21haWwuY29t"
-			onclick="this.href = 'mailto:' + atob(this.dataset.contact)"
-		>
-			contact me</a
-		>.
+			onclick="this.href = 'mailto:' + atob(this.dataset.contact)">Let's connect</a
+		> and start a conversation about what we can achieve together.
 	</p>
 </div>
