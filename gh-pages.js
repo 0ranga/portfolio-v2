@@ -4,7 +4,7 @@ publish(
  'build', // path to public directory
  {
   branch: 'master',
-  repo: 'https://github.com/mercvre/mercvre.github.io.git',
+  repo: 'https://github.com/0ranga/0ranga.github.io.git',
   message: "Updated my bio.",
   // Update to point to your repository
   // user: {
