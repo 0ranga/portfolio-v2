@@ -5,7 +5,7 @@ publish(
  {
   branch: 'master',
   repo: 'https://github.com/0ranga/0ranga.github.io.git',
-  message: "Changed links because of new username",
+  // message: "Changed links because of new username",
   // Update to point to your repository
   // user: {
   //  name: 'mercvre', // update to use your name
